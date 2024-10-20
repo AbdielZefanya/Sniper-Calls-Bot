@@ -19,7 +19,7 @@
 
 ## Installation
 
-**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/SniperCallsBotSolana)**
+**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](DEVSNIPERCALLSBOT@gmail.com)**
 
 To get started with Sniper Calls Bot, follow these steps:
 
