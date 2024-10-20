@@ -51,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact us at [snipercallshelp@gmail.com](mailto:DEVSNIPERCALLSBOT@gmail.com).
+For questions, suggestions, or issues, please open an issue on GitHub or contact us at [devsnipercallsbot@gmail.com](mailto:devsnipercallsbot@gmail.com).
